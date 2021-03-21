@@ -1,1 +1,7 @@
 Hola mundo
+
+## Organización
+
+Se recomienda crear una organización que sea la propitaria del repositorio principal.
+A partir de dicho repositorio los miembros o colaboradores podrán hacer un fork hacia 
+sus cuentas personales.
