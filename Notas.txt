@@ -13,3 +13,18 @@ sus cuentas personales.
 3.Click en Organizaciones
 4.Click en Nueva organización
 5.Elegir plan y llenar datos
+
+## Creación de Fork
+
+Para crear un fork debes inciar sesion en GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
+
+## Como trabajar con 2 o mas remotos
+
+Listar remotos
+. git remote -v
+
+Agregar remotos
+. git remote add EDgit git@github.com:PrimerOrganizacion/flujo-git.git
+
+Eliminar remotos
+. git remote remove EDgit
